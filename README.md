@@ -1,4 +1,4 @@
-# Hi! 👋 My name is Daniel Castillo
+# Hi! 👋 I'm Daniel Castillo
 
 * 👨‍💻 I'm a frontend web developer
 * 💼 I work with HTML, CSS, JavaScript, Boostrap, Tailwind and React
