@@ -5,9 +5,8 @@ Frontend Web Developer
 ----------------------
 
 *   🌍  I'm based in Cuba
-*   🖥️  See my portfolio at [https://danielcastillop.netlify.app](http://danielcastillop.netlify.app)
+*   🖥️  See my portfolio at [https://dlcastillop.vercel.app](https://dlcastillop.vercel.app)
 *   ✉️  You can contact me at [dlcastillo3015@gmail.com](mailto:dlcastillo3015@gmail.com)
-*   🚀  I'm currently working on [PayLink](http://github.com/dlcastillop/paylink)
 
 ### Skills 
 <p align="left">
