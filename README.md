@@ -5,8 +5,9 @@ Frontend Web Developer
 ----------------------
 
 *   🌍  I'm based in Cuba
-*   🖥️  See my portfolio at [https://dlcastillop.com](https://dlcastillop.com)
+*   🖥️  [My website](https://dlcastillop.com)
 *   ✉️  You can contact me at [dlcastillo3015@gmail.com](mailto:dlcastillo3015@gmail.com)
+*   🧑‍💻  Currently developing [Controllo](https://controllo.dlcastillop.com): a free browser extension to track all your subscriptions in one place
 
 ### Skills 
 <p align="left">
