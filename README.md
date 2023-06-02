@@ -18,37 +18,11 @@ I offer the following development services:
 
 ### Links
 
-<div style="display: flex; gap: 7.5px;">
-<div>
-<a href="https://twitter.com/dlcastillop">
-<img src="./readme_files/twitter.svg" width="25" height="25">
-</a>
-</div>
-
-<div>
-<a href="https://linkedin.com/in/dlcastillop">
-<img src="./readme_files/linkedin.svg" width="25" height="25">
-</a>
-</div>
-
-<div>
-<a href="https://instagram.com/dlcastillop">
-<img src="./readme_files/instagram.svg" width="25" height="25">
-</a>
-</div>
-
-<div>
-<a href="https://dlcastillop.com">
-<img src="./readme_files/link-45deg.svg" width="25" height="25">
-</a>
-</div>
-
-<div>
-<a href="mailto:dlcastillo3015@gmail.com">
-<img src="./readme_files/envelope-fill.svg" width="25" height="25">
-</a>
-</div>
-</div>
+- 🐦 <a href="https://twitter.com/dlcastillop">Twitter</a>
+- 💼 <a href="https://linkedin.com/in/dlcastillop">LinkedIn</a>
+- 📷 <a href="https://instagram.com/dlcastillop">Instagram</a>
+- 🌐 <a href="https://dlcastillop.com">Website</a>
+- 📧 <a href="mailto:dlcastillo3015@gmail.com">Email</a>
 
 ### Skills
 
