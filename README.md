@@ -6,6 +6,8 @@ Currently I am building the following projects:
 
 - 🎚️ [Controllo: a free and open source browser extension to track all your subscriptions in one place](https://controllo.dlcastillop.com)
 
+<img src="./readme_files/filetype-tsx.svg" width="30" height="30">
+
 ### Services
 
 I offer the following development services:
@@ -60,8 +62,6 @@ I offer the following development services:
 </a>
 </div>
 </div>
-
-website, email,
 
 ### Skills
 
