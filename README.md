@@ -4,7 +4,9 @@ Hi! 👋 I'm Daniel Castillo: a frontend developer, engineer and freelancer. I l
 
 Currently I am building the following projects:
 
+- 🤖 [prompTY: a browser extension to send and manage all your AI prompts in one place](https://prompty.dlcastillop.com)
 - 🎚️ [Controllo: a free and open source browser extension to track all your subscriptions in one place](https://controllo.dlcastillop.com)
+- 💰 [Paylink: a free and open source payment organizer](https://github.com/dlcastillop/paylink)
 
 ### Services
 
