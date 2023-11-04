@@ -1,13 +1,15 @@
-## [PayLink](https://github.com/dlcastillop/paylink)
+## [Nebula News](https://getnebula.news/)
 
-A payment organizer and an open source alternative to PayNest.
+A Next.js, Tailwind, and daisyUI template that allows you to create a newsletter site in a matter of hours.
 
-## [Inflando](https://github.com/dlcastillop/Inflando)
+## [Final Countdown JS](https://github.com/dlcastillop/final-countdown-js)
 
-A website that consumes APIs related to the informal currency exchange rate in Cuba.
+A react hook library to handle all kinds of timers.
 
-## [Readmail](https://github.com/dlcastillop/readmail)
+## [prompTY](https://chrome.google.com/webstore/detail/prompty/fbccnndojjlmkpekkpaallmapajmdlhj)
 
-Descripción: Pequeña descripción del proyecto 3
+A browser extension to send and manage all your AI prompts in one place
 
-Beautiful email templates ready for your personal or professional emails
+## [Paylink](https://github.com/dlcastillop/paylink)
+
+A free and open source payment organizer

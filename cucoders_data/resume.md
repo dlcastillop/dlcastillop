@@ -1,34 +1,41 @@
-## 💼 Perfil profesional
-Frontend web developer, engineer and tireless creator. Skilled in solving problems with HTML, CSS, Javascript, React, Tailwind and Boostrap. Focused on creating products that make developers happy.
+## Perfil profesional
 
-## 💼 Experience
+Desarrollador frontend e ingeniero. Experto en resolución de problemas con HTML, CSS, Javascript, TypeScript, Nextjs, React, Plasmo, Astro, Tailwind y Boostrap. Enfocado en ser una parte valiosa de cualquier equipo del que forme parte y en crear productos que hagan felices a los desarrolladores.
 
-### Fusyona
-- Improve the user experience on the registration page and on the change password page
-- Develop the client of P2P and Staking services
-- Implement tray and page notifications
-- Develop the frontend of the user identity verification process (KYC)
+## Experiencia
 
-## 🎓 Education
+### Datamart (Junio 2023 - Actualidad)
 
-### Central University "Marta Abreu" of Las Villas
-- Telecommunications and Electronics Engineer (2020)
+- Desarrollar la interfaz de los componentes Fuente de Datos y Webhook así como su integración en la aplicación Fleet
 
-## 💻 Skills
+### Fusyona (Septiembre 2022 - Junio 2023)
 
-- React
+- Mejorar la experiencia del usuario en la página de registro y en la página de cambio de contraseña
+- Desarrollar el cliente de servicios P2P, Staking y Vesting
+- Implementar el cliente de la bandeja de notificaciones y la página de notificaciones.
+- Desarrollar la interfaz del proceso de verificación de identidad del usuario (KYC)
+
+## Educación
+
+### Ingeniería en Telecomunicaciones y Electrónica
+
+Universidad Central "Marta Abreu" de las Villas (2015 - 2020)
+
+## Tecnologías
+
+- HTML
+- CSS
 - JavaScript
 - TypeScript
-- CSS
+- Nextjs
+- React
+- Plasmo
+- Astro
 - Tailwind
-- Boostrap
-- HTML
-- Git
-- GitHub
-- Front-end development
-- Responsive web design
+- daisyUI
+- Bootstrap
 
-## 🌎 Languages
+## Idiomas
 
-- Spanish (native)
-- English (advanced)
+- Español (nativo)
+- Inglés (avanzado)
