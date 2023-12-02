@@ -4,8 +4,8 @@ Hi! 👋 I'm Daniel Castillo: a frontend developer and engineer. I love building
 
 Currently I am building the following projects:
 
-- ✉️ [Nebula News: a Next.js, Tailwind, and daisyUI template that allows you to create a newsletter site in a matter of hours](https://getnebula.news/)
-- ⏱️ [Final Countdown JS: a react hook library to handle all kinds of timers](https://github.com/dlcastillop/final-countdown-js)
+- ✉️ [Nebula News: the NextJS template with all you need to build your newsletter website faster](https://getnebula.news/)
+- ⏱️ [Final Countdown JS: a React hook library to handle all kinds of timers](https://github.com/dlcastillop/final-countdown-js)
 - 🤖 [prompTY: a browser extension to send and manage all your AI prompts in one place](https://chrome.google.com/webstore/detail/prompty/fbccnndojjlmkpekkpaallmapajmdlhj)
 - 💰 [Paylink: a free and open source payment organizer](https://github.com/dlcastillop/paylink)
 

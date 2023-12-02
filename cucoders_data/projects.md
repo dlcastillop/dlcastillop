@@ -1,10 +1,10 @@
 ## [Nebula News](https://getnebula.news/)
 
-A Next.js, Tailwind, and daisyUI template that allows you to create a newsletter site in a matter of hours.
+The NextJS template with all you need to build your newsletter website faster
 
 ## [Final Countdown JS](https://github.com/dlcastillop/final-countdown-js)
 
-A react hook library to handle all kinds of timers.
+A React hook library to handle all kinds of timers
 
 ## [prompTY](https://chrome.google.com/webstore/detail/prompty/fbccnndojjlmkpekkpaallmapajmdlhj)
 
