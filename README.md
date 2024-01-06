@@ -8,7 +8,7 @@ Currently I am building the following projects:
 
 - ✉️ [Nebula News: Next.js template with all you need to build your newsletter website faster](https://getnebula.news/)
 - ⏱️ [Final Countdown JS: React hook library to handle all kinds of timers](https://github.com/dlcastillop/final-countdown-js)
-- 💰 [Hook Crafter: template to build a React hooks library faster](https://github.com/dlcastillop/hook-crafter)
+- 🪝 [Hook Crafter: template to build a React hooks library faster](https://github.com/dlcastillop/hook-crafter)
 
 ### Links
 
