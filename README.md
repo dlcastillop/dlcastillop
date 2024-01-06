@@ -1,21 +1,20 @@
-Hi! 👋 I'm Daniel Castillo: a frontend developer and engineer. I love building products that make developers happy.
+Hi! 👋 I'm Daniel Castillo: a frontend developer and engineer.
+
+One of my biggest motivations is to create tools that make life easier for developers. That's why I focus on creating content and projects that fulfill this purpose.
 
 ### Projects
 
 Currently I am building the following projects:
 
-- ✉️ [Nebula News: the NextJS template with all you need to build your newsletter website faster](https://getnebula.news/)
-- ⏱️ [Final Countdown JS: a React hook library to handle all kinds of timers](https://github.com/dlcastillop/final-countdown-js)
-- 🤖 [prompTY: a browser extension to send and manage all your AI prompts in one place](https://chrome.google.com/webstore/detail/prompty/fbccnndojjlmkpekkpaallmapajmdlhj)
-- 💰 [Paylink: a free and open source payment organizer](https://github.com/dlcastillop/paylink)
+- ✉️ [Nebula News: Next.js template with all you need to build your newsletter website faster](https://getnebula.news/)
+- ⏱️ [Final Countdown JS: React hook library to handle all kinds of timers](https://github.com/dlcastillop/final-countdown-js)
+- 💰 [Hook Crafter: template to build a React hooks library faster](https://github.com/dlcastillop/hook-crafter)
 
 ### Links
 
-- 🐦 <a href="https://twitter.com/dlcastillop">Twitter</a>
-- 💼 <a href="https://linkedin.com/in/dlcastillop">LinkedIn</a>
-- 📢 <a href="https://t.me/dlcastillop">Telegram</a>
 - 🌐 <a href="https://dlcastillop.com">Website</a>
 - 📧 <a href="mailto:daniel@dlcastillop.com">Email</a>
+- 💼 <a href="https://linkedin.com/in/dlcastillop">LinkedIn</a>
 
 ### Skills
 
@@ -23,10 +22,9 @@ Currently I am building the following projects:
 - CSS
 - JavaScript
 - TypeScript
-- Nextjs
+- Next.js
 - React
 - Plasmo
 - Astro
 - Tailwind
-- daisyUI
 - Bootstrap
